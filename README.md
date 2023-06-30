@@ -1,2 +1,2 @@
-# ig-publisher-templates
-Contain a branch for each FHIR IG Publisher template used by Lantana
+# ig-template-hl7-ada
+HL7 ADA template
